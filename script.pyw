@@ -534,10 +534,10 @@ quit()
 #   - add genetic algo - done
 #   - add better genetic algo - done
 #   - fix lidar - done
-#   - add loading/saving genetic model - working
+#   - add loading/saving genetic model - done
 
 # --------- NEURAL NET PARAMETERS ---------
-# iL  = 9 (the lidar output & the angle)
+# iL  = 8 (the lidar output)
 # hL1 = 6
 # hL2 = 6
 # oL  = 3 (left, right, no action)
