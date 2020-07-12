@@ -1,12 +1,17 @@
 # AI Learns To Walk
 This is an AI I made that can walk a track
+
 I used a genetic algorithm and a Feed Forward
+
 Neural Network
+
 You can see it [here](https://www.youtube.com/)
 
 ## Neural Network
 I used a 4 Layers Feed Forward Neural Network.
+
 There are 8 (The Lidar) Inputs and 3 outputs (Left, Right, No Action)
+
 2 Hidden Layers with 6 neurons each
 
 ## To Do
