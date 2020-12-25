@@ -28,3 +28,6 @@ There are 8 (The Lidar) Inputs and 3 outputs (Left, Right, No Action)
 `pip install pygame`
 
 `pip install torch===1.5.1 torchvision===0.6.1 -f https://download.pytorch.org/whl/torch_stable.html`
+
+## Screen shots
+![alt text](https://github.com/DavidCurca/ai-learns-to-walk/blob/master/walk.png?raw=true)
